@@ -1,0 +1,9 @@
+**/.idea
+**/target
+**/dependency-reduced-pom.xml
+**/*.iml
+.DS_Store
+.terraform
+.terraform.*
+*.tfstate
+*.tfstate.*
